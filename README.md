@@ -6,4 +6,4 @@
 
 - https://gitverse.ru/Ozzus/SciTech - сервис пользователей 
 
-- https://github.com/SidereaH/SciTechNewsParser - сервис парсера новостей 
+- https://github.com/SidereaH/SciTechNewsParser - сервис парсинга новостей 
