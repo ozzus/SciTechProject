@@ -7,3 +7,5 @@
 - https://gitverse.ru/Ozzus/SciTech - сервис пользователей 
 
 - https://github.com/SidereaH/SciTechNewsParser - сервис парсинга новостей 
+
+- https://gitverse.ru/flounder/SciTech1 - репозиторий frontend
